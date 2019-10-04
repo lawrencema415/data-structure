@@ -129,6 +129,7 @@ class LinkedList {
 
     return previous;
   }
+  
 }
 
 let list = new LinkedList();
