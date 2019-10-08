@@ -36,6 +36,7 @@ class Graph {
     }
   }
   // bfs(v)
+  // DFS - to go forward in depth while there is any such possibility, if not then, backtrack
   // dfs(v)
 }
 
